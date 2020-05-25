@@ -21,7 +21,7 @@ lock: true
 
 # Limit to only `issues` or `pulls`
 # only: issues
-only: `pulls`
+only: "pulls"
 
 # Optionally, specify configuration settings just for `issues` or `pulls`
 # issues:
